@@ -1,4 +1,4 @@
 package com.example.myapplication;
 
-public class Star extends Shape {
+public class Triangle extends Shape {
 }

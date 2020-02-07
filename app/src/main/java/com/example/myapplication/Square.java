@@ -1,8 +1,6 @@
 package com.example.myapplication;
 
-public abstract class Shape {
+public class Square {
     public int x;
     public int y;
-
-    String colour = "green";
 }
